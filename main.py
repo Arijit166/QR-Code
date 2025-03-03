@@ -1,5 +1,3 @@
-import sys
-sys.path.append('https://github.com/lincolnloop/python-qrcode')
 import qrcode
 input_URL="https://www.google.com/"
 qr=qrcode.QRCode(
